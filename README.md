@@ -22,7 +22,7 @@ This app fetches real-time weather data from a public API and displays the **tem
 
 ## 🎥 Preview Video
 
-> [🎬 Watch Demo Video](./src/assets/WeatherApp_Preview.mp4)
+> [🎬 Watch Video](./src/assets/WeatherApp_Preview.mp4)
 
 ## ⚙️ Installation
 
