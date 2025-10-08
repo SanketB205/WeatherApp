@@ -1,0 +1,9 @@
+.main{
+    height: 800px;
+    width: 400px;
+    border: solid 2px black;
+    border-radius: 1rem;
+    background: #6adede;
+    background: linear-gradient(278deg, rgba(106, 222, 222, 1) 0%, rgba(255, 255, 255, 1) 100%, rgba(255, 255, 255, 1) 100%);
+    
+}
