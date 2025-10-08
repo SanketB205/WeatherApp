@@ -16,6 +16,9 @@ This app fetches real-time weather data from a public API and displays the **tem
 * **React JS**
 * **Tailwind CSS**
 * **OpenWeatherMap API** (or any public weather API)
+## 📸 Screenshots
+
+![Home Screenshot](./src/assets/UI.jpg)
 
 ## 🎥 Preview Video
 
