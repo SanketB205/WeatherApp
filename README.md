@@ -1,16 +1,68 @@
-# React + Vite
+# 🌦️ Simple Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Weather App** built using **React JS** and **Tailwind CSS**.
+This app fetches real-time weather data from a public API and displays the **temperature**, **humidity**, and **weather conditions** of any city entered by the user.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Real-time weather data using API
+* Search by city name
+* Clean and minimal UI built with Tailwind CSS
+* Fully responsive design for mobile and desktop
+* Fast and easy to use
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **React JS**
+* **Tailwind CSS**
+* **OpenWeatherMap API** (or any public weather API)
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Screenshot](./src/assets/WeatherApp_Preview.mp4)
+
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch the demo video" width="600">
+  </a>
+</p>
+
+*(Click the image to watch the demo video on YouTube)*
+
+> Or, you can include a local file link instead:
+> [🎬 Watch Demo Video](./demo.mp4)
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/yourusername/weather-app.git
+   ```
+2. Navigate to the project folder
+
+   ```bash
+   cd weather-app
+   ```
+3. Install dependencies
+
+   ```bash
+   npm install
+   ```
+4. Run the app
+
+   ```bash
+   npm run dev
+   ```
+
+## 🧠 Learning Purpose
+
+This project is perfect for beginners who want to learn how to:
+
+* Use **React hooks** for state management
+* Work with **APIs** in React
+* Style with **Tailwind CSS**
+* Build and deploy simple front-end applications
+
