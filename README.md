@@ -17,9 +17,9 @@ This app fetches real-time weather data from a public API and displays the **tem
 * **Tailwind CSS**
 * **OpenWeatherMap API** (or any public weather API)
 
-## 🎥 Demo Video
+## 🎥 Preview Video
 
-> [🎬 Watch Demo Video](./demo.mp4)
+> [🎬 Watch Demo Video](./src/assets/WeatherApp_Preview.mp4)
 
 ## ⚙️ Installation
 
