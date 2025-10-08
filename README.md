@@ -17,21 +17,8 @@ This app fetches real-time weather data from a public API and displays the **tem
 * **Tailwind CSS**
 * **OpenWeatherMap API** (or any public weather API)
 
-## 📸 Screenshot
-
-![App Screenshot](./src/assets/WeatherApp_Preview.mp4)
-
 ## 🎥 Demo Video
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg" alt="Watch the demo video" width="600">
-  </a>
-</p>
-
-*(Click the image to watch the demo video on YouTube)*
-
-> Or, you can include a local file link instead:
 > [🎬 Watch Demo Video](./demo.mp4)
 
 ## ⚙️ Installation
